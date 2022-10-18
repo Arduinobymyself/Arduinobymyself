@@ -35,7 +35,7 @@
  <a href = "mailto:marcelo.moraes.1971@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcelopintomoraes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  <a href="https://arduinobymyself.blogspot.com" target="_blank"><img src=https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white /></a>
+  <a href="https://arduinobymyself.blogspot.com" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
  
   ![Snake animation](https://github.com/Arduinobymyself/Arduinobymyself/blob/output/github-contribution-grid-snake.svg)
  
