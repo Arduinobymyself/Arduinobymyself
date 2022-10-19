@@ -1,5 +1,3 @@
-## Olá meu nome é Marcelo Moraes
-## este é meu repositório Arduinobymyself.
 # Seja Bem vindo!
 
 <div align="center">
