@@ -31,7 +31,7 @@
   <a href="https://arduinobymyself.blogspot.com" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
   <a href="https://www.youtube.com/c/MarceloMoraes" target="_blank"><img src=https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white></a>
  
-  ![Snake animation](https://github.com/Arduinobymyself/Arduinobymyself/blob/output/github-contribution-grid-snake.svg)
+
  
  
 </div>
